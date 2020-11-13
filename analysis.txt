@@ -1,0 +1,13 @@
+I wanted to do a comparison year over year for a specific month. I decided on September as that was the last month to have the full data at the time I 
+started on this project. As I was reviewing the data I noticed the differences in usage based on gender and decided to focus on that.
+
+The first observation was on usage in September year over year (2018-2020). Males were always the highest in usage for each year, but male usaged declined 
+in 2020 compared to 2019. Females seem to steadily increase year over year with no decline.
+
+I also found it interesting that there was a decline in male usage because in 2020 there was quite a large increase in stations compared to 2019. With more
+opportunities with more stations usage was down in September 2020. Not sure if this was the cause but maybe COVID-19 played a part. Although, it did not 
+seem to impact female usage in the same way.
+
+Although males use the Citi bikes more often females and "Unknown" genders have longer trip durations year over year. It seems that males use them on 
+average for shorter periods of time.
+
